@@ -1,1 +1,1 @@
-CREATE DATABASE brand_site_php;
+CREATE DATABASE database;

@@ -6,7 +6,7 @@
 -- Время создания: Янв 01 2024 г., 17:00
 -- Версия сервера: 5.7.39-log
 -- Версия PHP: 8.1.9
-USE brand_site_php;
+USE database;
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -19,7 +19,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- База данных: `brand_site_php`
+-- База данных: `database`
 --
 
 -- --------------------------------------------------------

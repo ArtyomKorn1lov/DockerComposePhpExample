@@ -18,7 +18,7 @@ class ProductsRepository
      */
     public function __construct()
     {
-        $this->conn = mysqli_connect("mysql", "dev", "dev", "brand_site_php");
+        $this->conn = mysqli_connect("mysql", "dev", "dev", "database");
         if (!$this->conn) {
             die("Ошибка: " . mysqli_connect_error());
         }

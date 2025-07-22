@@ -1,4 +1,4 @@
-USE brand_site_php;
+USE database;
 
 --
 -- Структура таблицы `catalog`
